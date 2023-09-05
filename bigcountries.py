@@ -1,4 +1,4 @@
-# 30 Days of Pandas
+# 595. Big Countries
 
 import pandas as pd
 
